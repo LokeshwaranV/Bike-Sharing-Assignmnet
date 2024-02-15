@@ -1,5 +1,8 @@
 # Yulu Bike-Sharing Data Analysis
 
+![City Bike Stations Map](https://example.com/city_bike_stations_map.jpg)
+
+
 ## Problem Statement
 Yulu is a popular bike-sharing start-up based out of India. As part of your assignment, provide insights backed by data to steer major business decisions, which help scale up the existing user base and optimize internal operations. Some tasks include estimating demand prediction and optimizing operations.
 
