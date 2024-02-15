@@ -1,6 +1,6 @@
 # Yulu Bike-Sharing Data Analysis
 
-![City Bike Stations Map](https://example.com/city_bike_stations_map.jpg)
+![City Bike Stations Map](bike_sharing.jpg)
 
 
 ## Problem Statement
